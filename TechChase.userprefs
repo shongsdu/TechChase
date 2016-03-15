@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\OptionsManagerScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\UIManagerScript.cs" Line="125" Column="39" />
+      <File FileName="Assets\Scripts\CharController.cs" Line="181" Column="26" />
+      <File FileName="Assets\Scripts\InitManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CharManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TopScoreManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CharScoreMangerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SwipeManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HowToManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoadingManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuManagerScript.cs" Line="17" Column="3" />
+      <File FileName="Assets\Scripts\ScoreManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SelectCharScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\OptionsManagerScript.cs" Line="30" Column="69" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
