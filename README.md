@@ -1,5 +1,10 @@
 # TechChase
-App Summary:
+Tech Chase
+
+Made in Unity 5.3.1.
+
+App Summary
+
 With this app, you'll be able to practice your tech chase reactions on the top 8 characters from 
 the current Melee tier list (Fox, Falco, Sheik, Marth, Jiggs, Peach, Falcon, and ICs).
 After selecting a character, they will randomly perform one of the four techs (Left, Right, In-place, and Miss). 
